@@ -42,3 +42,7 @@ Cache |
  - [Finchley.SR1 turbine_stream](https://cloud.spring.io/spring-cloud-static/Finchley.SR1/single/spring-cloud.html#_turbine_stream)
  - [Greenwich.RELEASE ystrix_timeouts_and_ribbon_clients](https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/single/spring-cloud.html#_hystrix_timeouts_and_ribbon_clients)
  - [spring-cloud-stream](https://docs.spring.io/spring-cloud-stream/docs/current/reference/htmlsingle/)
+
+other:
+
+ - [ribbon](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-ribbon.html)
