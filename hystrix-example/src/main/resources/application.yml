@@ -16,3 +16,9 @@ eureka:
 spring:
   application:
     name: hystrix-example-service
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
